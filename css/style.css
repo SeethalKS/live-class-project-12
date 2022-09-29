@@ -1,0 +1,238 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:wght@300&family=Raleway:wght@600&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+  .header{
+    color: #ffff;
+    padding:40px 20px 20px 100px;
+    background-color: #636C79;
+  }
+  #navSection{
+    display: flex;
+  }
+  #navSection img{
+    height:40px;
+  }
+  .list{
+    margin-top: 10px;
+    margin-right: 100px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    gap:30px;
+    cursor: pointer;
+    margin-left:250px ;
+  }
+  .Talk{
+    margin-top: -10px;
+    margin-left:10px;
+  }
+  .btns
+  {
+    color: #ffff;
+    border:2px solid #ffff;
+    padding: 10px 40px 10px 40px;
+    background-color:transparent;
+  }
+  .headersection{
+    padding:30px 20px 20px 60px;
+    display: flex;
+    font-family: 'Raleway';
+    font-size: 25px;
+    font-weight: 900;
+    gap:60px;
+  }
+  .headersection img{
+    height:250px;
+    width: 300px;
+  }
+  .headersection p{
+    margin-top: 20px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 200;
+  }
+  .email{
+    display: flex;
+    gap:20px;
+    background-color: #ffff;
+    color: black;
+    padding: 2px 2px 2px 5px;
+    margin-top: 20px;
+  }
+  .email h5{
+    color: #636C79;
+    margin-top: 15px;
+  }
+  .email i{
+    margin-top: 15px;
+  }
+  .btns2{
+    margin-left: 50px;
+    background-color:  #8ab8a2;
+    color: #ffff;
+    border:2px solid #ffff;
+    padding: 15px 40px 15px 40px;
+  }
+  .sectionone{
+    font-family: 'Raleway';
+  }
+  .Heading{
+    margin-top: 50px;
+    text-align: center;
+    font-family: 'Raleway';
+    font-size: 50px;
+  }
+  .review{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap:120px;
+    margin-top: 30px;
+  }
+  .review h4{
+    margin-top: 20px;
+    color: #636C79;
+  }
+  .discussion{
+    display: flex;
+    justify-content: center;
+    margin-top:30px ;
+  }
+  .discussion img{
+    position: relative;
+    height: 400px;
+    width:780px;
+  }
+  .sectionthree{
+    padding:40px 20px 20px 150px;
+    display: flex;
+    gap:40px;
+  }
+  .caption
+  {
+    font-family: 'Raleway';
+    font-size: 30px;
+  }
+  .description{
+    margin-top: 20px;
+    font-family: 'Open Sans';
+    font-size: 20px;
+    font-weight: 200;
+    color: #636C79;
+  }
+  .talk
+  {
+    margin-top: 20px;
+    background-color:  #8ab8a2;
+    color: #ffff;
+    border:2px solid #ffff;
+    padding: 15px 40px 15px 40px;
+  }
+  .sectionthree img{
+    position: relative;
+    height: 300px;
+    width:480px;
+  }
+  .sectionfour
+  {
+    padding:100px 20px 20px 150px;
+    display: flex;
+    gap:40px;
+  }
+  .sectionfour img{
+    position: relative;
+    height: 500px;
+    width:400px;
+  }
+  .maincaption{
+    margin-top: 80px;
+  }
+  .sectionfive{
+    padding:40px 20px 20px 150px;
+    display: flex;
+    gap:40px;
+  }
+  .sectionfive img{
+    position: relative;
+    height: 300px;
+    width:480px;
+  }
+  .sectionsix{
+    padding:40px 20px 20px 150px;
+    display: flex;
+    gap:250px;
+  }
+  .sectionseven{
+    padding:40px 20px 20px 150px;
+    display: flex;
+    gap:60px;
+  }
+  .teams h4{
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .teams p{
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: #636C79;
+  }
+  .leaders
+  {
+    position: relative;
+    height: 350px;
+    width:250px;
+  }
+  .sectioneight
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .footer
+  {
+    background-color:#0D0D0D;
+    height: 500px;
+    margin-top: 50px;
+  }
+  .logos{
+    padding:50px 20px 20px 150px;
+    display: flex;
+    gap:270px;
+  }
+  .logos img{
+    height:40px;
+    margin-top: 30px;
+  }
+  .long-line{
+    width: 1030px;
+    height: 1px;
+    margin-top:10px ;
+    margin-left:150px;
+    border: none;
+    position: relative;
+    background-color: #ffffff;
+}
+  .footermenu{
+    color: #ffff;
+  }
+  .features{
+    padding:150px 20px 20px 150px;
+    display: flex;
+    gap:100px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .footermenu ul{
+    margin-top: 10px;
+    line-height: 30px;
+    list-style: none;
+  }
+  .social-icon{
+    padding: 20px;
+    border-radius:60px;
+    background-color:#242B2E;
+    font-size: 15px;
+}
