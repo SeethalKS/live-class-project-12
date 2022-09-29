@@ -12,7 +12,7 @@
 ### It takes me 2 days to complete this project and thoroughly studied CSS Selectors, Positions and flexbox.
 
 #### *In case you are interested in this project, feel free to use these files for educational purposes*👍
-👉[**Link to the Webpage**](https://lcoproject1.netlify.app/)
+👉[**Link to the Webpage**](https://lco-ineuron-project12.netlify.app/)
 
 ![badge](https://img.shields.io/badge/html--css-Project-lightgrey)
 
